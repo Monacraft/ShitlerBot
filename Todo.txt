@@ -1,0 +1,7 @@
+make voting private
+prevent double voting
+
+colour names
+proper help screen w/ commands
+
+special conditions

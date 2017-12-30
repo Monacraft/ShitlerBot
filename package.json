@@ -1,0 +1,22 @@
+{
+  "name": "shitlerbot",
+  "version": "1.0.0",
+  "description": "A Discord bot for Secret Hitler written using Discord Js",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monacraft/ShitlerBot.git"
+  },
+  "author": "Monacraft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monacraft/ShitlerBot/issues"
+  },
+  "homepage": "https://github.com/Monacraft/ShitlerBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
