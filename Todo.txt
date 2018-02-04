@@ -1,7 +1,8 @@
-make voting private
-prevent double voting
+//make voting private
+// prevent double voting
 
-colour names
+//colour names
 proper help screen w/ commands
 
 special conditions
+//fascist know fascist
